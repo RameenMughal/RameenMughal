@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hey there! ✨ 
 
-<!--
-**RameenMughal/RameenMughal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Rameen Mughal**, a Computer Science student interested in **Cyber Security**.  
 
-Here are some ideas to get you started:
+I love exploring the world of **Penetration Testing** and **Ethical Hacking** — breaking into systems (ethically!) and learning how to make them stronger.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack includes **Python**, **Linux**, and **Offensive Security** tools.  
+
+I’m currently working on a **Deepfake Image Prediction** project using Machine Learning.  
+
+I spend most of my learning time on **TryHackMe** and **Cisco Networking Academy (CCNA)**.  
+
+My favorite repository right now is [TryHackMe Writeups](https://github.com/RameenMughal/TryHackMeWriteups.git), where I document what I learn.  
+
+I plan to contribute more and make my GitHub a reflection of my cybersecurity journey. 🚀  
+
+### Fun Facts:
+- I enjoy **calligraphy**  
+- I like watching **real-life documentaries**  
+- Hobbies: **Reading** and **watching series**
