@@ -6,7 +6,7 @@ I love exploring the world of **Penetration Testing** and **Ethical Hacking** â€
 
 My main tech stack includes **Python**, **Linux**, and **Offensive Security** tools.  
 
-Iâ€™m currently working on a **Deepfake Image Prediction** project using Machine Learning.  
+I am currently exploring the world of **Governance, Risk, and Compliance (GRC)**. 
 
 I spend most of my learning time on **TryHackMe** and **Cisco Networking Academy (CCNA)**.  
 
