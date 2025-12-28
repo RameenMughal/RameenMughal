@@ -8,7 +8,7 @@ My main tech stack includes **Python**, **Linux**, and **Offensive Security** to
 
 I am currently exploring the world of **Governance, Risk, and Compliance (GRC)**. 
 
-I spend most of my learning time on **TryHackMe** and **Cisco Networking Academy (CCNA)**.  
+I spend most of my learning time on **PicoCTF** and **Cisco Networking Academy (CCNA)**.  
 
 My favorite repository right now is [TryHackMe Writeups](https://github.com/RameenMughal/TryHackMeWriteups.git), where I document what I learn.  
 
